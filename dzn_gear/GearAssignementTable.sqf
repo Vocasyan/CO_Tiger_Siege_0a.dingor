@@ -10,12 +10,12 @@
 // Decode cyrillic chars with http://www.online-decoder.com/ru
 
 
-A "Tiger 1 Section Leader"			TO "kit_name" KIT
+A "Tiger 1 Section Leader"			TO "kit_zaf_sl" KIT
 , A "Automatic Rifleman"			TO "kit_zaf_ar" KIT
 , A "Grenadier"				TO "kit_zaf_gr" KIT
 , A "Rifleman"				TO "kit_zaf_r" KIT
-, A "BLUE - 2IC"				TO "kit_name" KIT
-, A "Tiger 2 Section Leader"			TO "kit_name" KIT
-, A "Tiger 6 Platoon Leader"			TO "kit_name" KIT
-, A "Platoon Sergeant"			TO "kit_name" KIT
-, A "FO"					TO "kit_name" KIT
+, A "BLUE - 2IC"				TO "kit_zaf_ftl" KIT
+, A "Tiger 2 Section Leader"			TO "kit_zaf_sl" KIT
+, A "Tiger 6 Platoon Leader"			TO "kit_zaf_sl" KIT
+, A "Platoon Sergeant"			TO "kit_zaf_sl" KIT
+, A "FO"					TO "kit_zaf_sl" KIT
