@@ -1,6 +1,6 @@
 [
     "Wave1_1" /* Zone Name */
-    ,"EAST",true, /* Side, is Active */ [],[]
+    ,"EAST",false, /* Side, is Active */ [],[]
     /* Groups: */
     ,[
         [

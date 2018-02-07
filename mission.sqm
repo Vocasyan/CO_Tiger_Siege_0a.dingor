@@ -4087,6 +4087,7 @@ class Mission
 				};
 			};
 			id=264;
+			atlOffset=17.27;
 		};
 		class Item65
 		{
@@ -10810,7 +10811,7 @@ class Mission
 			};
 			id=741;
 			type="ModuleEffectsSmoke_F";
-			atlOffset=2.7632027;
+			atlOffset=2.7632675;
 			class CustomAttributes
 			{
 				class Attribute0
